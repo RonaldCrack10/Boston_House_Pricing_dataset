@@ -9,7 +9,7 @@ This project predicts house prices in Boston using the [Boston Housing Dataset](
 
 ## Description
 Housing Values in Suburbs of Boston
-# The medv variable is the target variable.
+--> The medv variable is the target variable.
 
 # Data description
 The Boston data frame has 506 rows and 14 columns.
